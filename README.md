@@ -285,11 +285,3 @@ python manage.py graph_models -a -g -o models.png  # all
 ├── README.md
 └── requirements.txt
 ```
-
-## Read
-
-https://github.com/rg3915/django-auth-tutorial
-
-https://github.com/rg3915/django-custom-login-email
-
-https://github.com/rg3915/coreui-django-boilerplate-v2
