@@ -53,7 +53,7 @@ Packages used in conjunction with Django.
 This script run in **Unix**.
 
 ```
-git clone https://github.com/rg3915/django-boilerplate.git /tmp/django-boilerplate
+git clone https://github.com/zerox64/django-boilerplate.git /tmp/django-boilerplate
 # Copy this file to your actual folder.
 cp /tmp/django-boilerplate/boilerplatesimple.sh .
 ```
@@ -72,7 +72,7 @@ source boilerplatesimple.sh myproject
 If yout want to use a alias.
 
 ```
-alias djboilerplate='git clone https://github.com/rg3915/django-boilerplate.git /tmp/django-boilerplate;
+alias djboilerplate='git clone https://github.com/zerox64/django-boilerplate.git /tmp/django-boilerplate;
 cp /tmp/django-boilerplate/boilerplatesimple.sh .
 printf "Type:\n`tput setaf 2`source boilerplatesimple.sh myproject\n"'
 ```
